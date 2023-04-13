@@ -56,3 +56,4 @@ function isSame(puzzle1, puzzle2) {
     return JSON.stringify(puzzle1) === JSON.stringify(puzzle2);
 }
   
+commit test
